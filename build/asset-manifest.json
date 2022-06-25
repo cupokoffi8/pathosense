@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4505b718.css",
+    "main.js": "/static/js/main.9ae87f78.js",
+    "static/media/pleasee.jpg": "/static/media/pleasee.7b36fcf6b33e897611ca.jpg",
+    "static/media/Pathosense-Bar.png": "/static/media/Pathosense-Bar.4c35052a4159e794e42d.png",
+    "index.html": "/index.html",
+    "main.4505b718.css.map": "/static/css/main.4505b718.css.map",
+    "main.9ae87f78.js.map": "/static/js/main.9ae87f78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4505b718.css",
+    "static/js/main.9ae87f78.js"
+  ]
+}
