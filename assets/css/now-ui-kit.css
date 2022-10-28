@@ -3288,8 +3288,7 @@ p {
 }
 
 body {
-  color: #2c2c2c;
-  color: #01203a;
+  color: #2c2c2c; 
   font-size: 14px;
   font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
   overflow-x: hidden;
@@ -3642,7 +3641,7 @@ fieldset[disabled] .navbar .navbar-nav > a.btn.active {
 }
 
 .btn-primary {
-  background-color: #e89c35;
+  background-color: #D00F0F !important;
   color: #ffffff;
 }
 
@@ -6230,7 +6229,7 @@ textarea.form-control:active {
 }
 
 .bg-white {
-  background-color: #01203a !important;
+  background-color: #D00F0F !important;
 }
 
 .navbar p {
@@ -10666,7 +10665,7 @@ img {
     transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
   }
   .navbar-collapse:before {
-    background: #01203a;
+    background: #474646;
 
     filter: alpha(opacity=76);
     display: block;
@@ -10769,7 +10768,7 @@ img {
     transition: width 0.2s linear;
   }
   .navbar.bg-white:not(.navbar-transparent) .navbar-toggler-bar {
-    background: #888888;
+    background: #fff;
   }
   .top-bar {
     transform: rotate(0);
